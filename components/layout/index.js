@@ -6,7 +6,9 @@
 'use strict'
 
 import Background from './background.vue'
+import Header from './header.vue'
 
 module.exports = {
-  Background
+  Background,
+  Header
 }
